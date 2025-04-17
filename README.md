@@ -19,12 +19,15 @@ sudo chown root:wheel /usr/local/bin/Carillon
 sudo chown root:wheel /Library/LaunchDaemons/com.nicoswd.Carillon.plist
 
 UNINSTALL To uninstall Carillon, remove the following files from your system:
+
  
 /usr/local/bin/Carillon 
 
 /System/Library/LaunchDaemons/com.nicoswd.Carillon.plist
 
+
 VIEW HIDDEN MAC FILES
+
 
 defaults write com.apple.Finder AppleShowAllFiles true killall Finder
 
