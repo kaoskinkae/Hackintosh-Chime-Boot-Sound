@@ -8,6 +8,7 @@ Carillon is an open source OS X app, specifically for Hackintosh machines, that 
 A new launch daemon will be added that triggers the sound, meaning, unlike most similar apps, this one runs much earlier during the boot process, even before the login screen appears. No crappy AppleScript solution that triggers when you're already on the Desktop, no outdated PrefPane
 
 INSTALL 
+
 /usr/local/bin/Carillon 
 
 /System/Library/LaunchDaemons/com.nicoswd.Carillon.plist
