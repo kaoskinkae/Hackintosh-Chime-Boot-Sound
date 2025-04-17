@@ -1,7 +1,7 @@
 # Hackintosh-Chime-Boot-Sound
 
 Hackintosh Chime Boot Sound
-nicoswd-Carillon
+Nicoswd-Carillon
 
 Carillon is an open source OS X app, specifically for Hackintosh machines, that plays the classic "Chime" boot sound on startup that real Macs have.
 
