@@ -25,6 +25,9 @@ UNINSTALL To uninstall Carillon, remove the following files from your system:
 
 /System/Library/LaunchDaemons/com.nicoswd.Carillon.plist
 
+![Captura de pantalla 2025-04-17 a las 15 32 14](https://github.com/user-attachments/assets/dac8358c-245e-4f8d-92c7-068e7c4acb10)
+
+
 
 VIEW HIDDEN MAC FILES
 
